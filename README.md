@@ -1,3 +1,10 @@
+ ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+
+<div align="center">
+<br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Vihanga+Gagagnatharu+;Welcome+to+My+Profile!"
+</div>
+<hr>
 <h1 align="center">Hi there, I'm Ranindu Nethmina</h1>
 <h3 align="center">Future Software Engineer</h3>
 
