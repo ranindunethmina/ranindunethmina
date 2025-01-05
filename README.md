@@ -1,4 +1,9 @@
-# Ranindu Nethmina
+<div align="center">
+  <h1>Ranindu Nethmina</h1>
+  <h3>Undergraduate Software Engineer | Full-Stack Developer</h3>
+</div>
+
+---
 
 ## About Me
 
@@ -39,19 +44,16 @@ Software Engineering undergraduate at [Institute of Software Engineering (IJSE)]
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## GitHub Activity
+### GitHub Stats
 
-> Note: GitHub stats shown below are based on public repository contributions and may not reflect private development work or contributions to organization repositories.
-
+<p>Here’s an overview of my GitHub activity and most-used languages, reflecting my focus areas and contributions.</p>
+<br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranindunethmina&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranindunethmina&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranindunethmina&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranindunethmina&theme=github_dark" alt="GitHub Profile Summary" />
-</div>
-
-## Professional Connect
+### Connect with Me
 
 I'm always interested in connecting with fellow developers and industry professionals:
 
