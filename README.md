@@ -1,35 +1,65 @@
- ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+# Ranindu Nethmina
+
+## About Me
+
+Software Engineering undergraduate at [Institute of Software Engineering (IJSE)](https://ijse.lk/), focused on enterprise application development and software architecture. Currently in my first year, I am passionate about building scalable, maintainable solutions using modern technologies and best practices.
+
+## Technical Expertise
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Enterprise Frameworks & Libraries
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-important?style=for-the-badge&logo=jakarta-ee&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Frontend Technologies
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Database & Development Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Development Environments
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## GitHub Activity
+
+> Note: GitHub stats shown below are based on public repository contributions and may not reflect private development work or contributions to organization repositories.
 
 <div align="center">
-<br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Ranindu+Nethmina+;Welcome+to+My+Profile!"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranindunethmina&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 </div>
-<hr>
-
- <h3 align="center">Future Software Engineer</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/124574193/264910468-7d9f1d06-5952-46b8-b9d6-fe033ec35356.png">
-
-- 🌱 I’m currently learning **GDSE - Graduate Diploma In Software Engineering**
-
-- 💬 Ask me about **java,oop,sql,html**
-
-- 📫 How to reach me **ranindunethmina@gmail.com**
-
-- ⚡ Fun fact **I am happy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ranindunethmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranindunethmina" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranindunethmina&show_icons=true&locale=en" alt="ranindunethmina" /></p>
-
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Ranindu Nethmina
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranindunethmina&theme=github_dark" alt="GitHub Profile Summary" />
+</div>
+
+## Professional Connect
+
+I'm always interested in connecting with fellow developers and industry professionals:
+
+- 📧 Email: [ranindunethmina@gmail.com](mailto:ranindunethmina@gmail.com)
+- 💼 LinkedIn: [Ranindu Nethmina](https://www.linkedin.com/in/ranindu-nethmina/)
+
+---
+
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
 </div>
